@@ -1,0 +1,18 @@
+# Folder library Python
+venv/
+.venv/
+env/
+Include/
+Lib/
+Scripts/
+
+# File Model AI (Ini yang bikin 2GB+)
+*.safetensors
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Cache & Output
+__pycache__/
+outputs/
